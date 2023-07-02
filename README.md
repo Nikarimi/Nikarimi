@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nima Karimi, PhD candidate of computer eng. @Nikarimi
+- 👋 Hi, I’m Nima Karimi, PhD of computer eng. @Nikarimi
 - 👀 I’m interested in data science and python programming
-- 🌱 I’m currently learning more about efficient ML
+- 🌱 I’m currently learning more about efficient ML, Federated Learning.
 - 💞️ I’m looking to collaborate on scintific or business projects specially on Data Science
 - 🌱 I'm looking for research project too.
 - 📫 How to reach me : nimakarimi(at)gmail(dot)com  
